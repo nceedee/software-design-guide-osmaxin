@@ -26,3 +26,5 @@ Firstly, before starting a project. You will have to know about what you are bui
 
  **Border Context**
  	When designing software, it's important to identify current limitations, brainstorm potential future extensions, and integrate "moonshot" ideas for innovative features to foster creativity and address unforeseen opportunities during development.
+
+  #NNAJI CHIEDOZIE DAVID -@NCEEDEE-
